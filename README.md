@@ -1,11 +1,11 @@
-🚗 Automobile Sales Dashboard (Microsoft Excel)
-1. Project Overview
+## 🚗 Automobile Sales Dashboard (Microsoft Excel)
+## 1. Project Overview
 
 The Automobile Sales Dashboard is an interactive Microsoft Excel dashboard designed to analyze vehicle sales performance, profitability, order status, branch performance, and sales executive productivity.
 
 This dashboard transforms raw automobile sales data into meaningful business insights using Pivot Tables, Pivot Charts, KPIs, Slicers, and dynamic visualizations, helping management make data-driven decisions.
 
-2. Project Objective
+## 2. Project Objective
 
 The primary objectives of this project are:
 
@@ -18,7 +18,7 @@ Monitor order delivery status
 Evaluate sales executive performance
 Forecast future business growth (2020–2030)
 Build an interactive Excel dashboard for business reporting
-3. Tools & Technologies Used
+## 3. Tools & Technologies Used
 
 This project was developed using:
 
@@ -30,7 +30,7 @@ Conditional Formatting
 Data Cleaning
 Excel Formulas
 Dashboard Design Techniques
-4. Dashboard KPIs
+## 4. Dashboard KPIs
 
 The dashboard includes key business metrics such as:
 
@@ -38,7 +38,7 @@ The dashboard includes key business metrics such as:
 💰 Total Profit
 📊 Average Sales
 💵 Average Profit
-5. Dashboard Visualizations
+## 5. Dashboard Visualizations
 
 The dashboard provides the following visual reports:
 
@@ -66,7 +66,7 @@ Analyzes sales quantity achieved by each sales executive.
 
 Forecasts future sales growth using trend analysis.
 
-6. Interactive Features
+## 6. Interactive Features
 
 Users can dynamically filter the dashboard using:
 
@@ -78,7 +78,7 @@ Interactive Slicers
 
 These filters instantly update all charts and KPIs.
 
-7. Key Business Insights
+## 7. Key Business Insights
 
 The dashboard reveals several valuable insights:
 
@@ -89,7 +89,7 @@ Namakkal branch contributed the largest share of total profit.
 Ajay achieved the highest sales quantity among sales executives.
 Delivered orders significantly outnumber pending orders.
 Sales are projected to grow steadily through 2030.
-8. Dataset Information
+## 8. Dataset Information
 
 The dataset contains:
 
@@ -105,18 +105,16 @@ Sales Date
 Month
 Year
 Weekday
-9. Files Included
+## 9. Files Included
 📄 Automobile Sales Dashboard.xlsx
 📄 Automobile Sales Dataset.xlsx / CSV
 🖼️ Dashboard Screenshot
 📘 README.md
-10. Dashboard Preview
+## 10. Dashboard Preview
 
-Dashboard Screenshot
+![Dashboard Screenshot](http://github.com/Raghul2k03/Automobile-Sales-Dashboard/blob/main/Automobile%20Sales%20dashboard.png.)
 
-(http://github.com/Raghul2k03/Automobile-Sales-Dashboard/blob/main/Automobile%20Sales%20dashboard.png.)
-
-11. Project Outcome
+## 11. Project Outcome
 
 This dashboard demonstrates how Microsoft Excel can be used to build professional Business Intelligence (BI) reports for automobile sales analysis.
 
@@ -129,7 +127,7 @@ Evaluate employee productivity
 Analyze vehicle profitability
 Forecast future business growth
 Support strategic business decisions
-12. Skills Demonstrated
+## 12. Skills Demonstrated
 
 This project showcases expertise in:
 
