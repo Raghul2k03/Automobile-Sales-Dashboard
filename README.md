@@ -110,9 +110,11 @@ Weekday
 📄 Automobile Sales Dataset.xlsx / CSV
 🖼️ Dashboard Screenshot
 📘 README.md
+
 ## 10. Dashboard Preview
 
-![Dashboard Screenshot](http://github.com/Raghul2k03/Automobile-Sales-Dashboard/blob/main/Automobile%20Sales%20dashboard.png.)
+![Automobile Sales Dashboard](https://raw.githubusercontent.com/Raghul2k03/Automobile-Sales-Dashboard/main/Automobile%20Sales%20dashboard.png)
+
 
 ## 11. Project Outcome
 
